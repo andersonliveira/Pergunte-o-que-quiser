@@ -1,0 +1,4 @@
+1-npm install para instalar as dependências do sistema
+2-crie uma base de dados com o mesmo nome a do arquivo database/database.js
+3-passe seus valores de conexão user,password e host
+4-suba a aplicação
